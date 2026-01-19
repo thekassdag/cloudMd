@@ -2,6 +2,11 @@
 
 This project is a cloud-based file collaboration platform with a React frontend and a Node.js/Express backend.
 
+
+
+https://github.com/user-attachments/assets/8675a5e4-c9ad-414c-91d4-606695e0637f
+
+
 ## Project Structure
 
 -   `backend/`: Contains the Node.js/Express API.
